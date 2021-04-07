@@ -10,7 +10,7 @@
 
 # Citrix k8s node controller
 
-Citrix k8s node controller is a micro service provided by Citrix that creates network between the Kubernetes cluster and ingress device.
+Citri k8s node controller is a micro service provided by Citrix that creates network between the Kubernetes cluster and ingress device.
 
 ## Contents
 
